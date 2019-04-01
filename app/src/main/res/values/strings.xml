@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Library</string>
+    <string-array name="books">
+        <item>The Discovery of India </item>
+        <item>The Story of My Experiments With Truth </item>
+        <item>Wings of Fire</item>
+        <item>Ignited Minds</item>
+        <item>The Bible</item>
+        <item>The Outsider Novel</item>
+    </string-array>
+
+</resources>
